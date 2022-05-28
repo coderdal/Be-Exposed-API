@@ -22,10 +22,6 @@ server.get("/", (req, res) => {
     );
 });
 
-server.get("/videos", (req, res) => {
-  res.status(200).json(data);
-});
-
 server.get("/video", (req, res) => {
   res.status(200).json(data[Math.floor(Math.random() * data.length)]);
 });

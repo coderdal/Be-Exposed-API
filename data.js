@@ -64,4 +64,42 @@ module.exports = [
     answer: "Yalnız değilsin. Hiç yalnız olmadın. Hiç yalnız olmayacaksın.",
     distractor: "Yalnız değildin. Hiç yalnız olmadın. Hiç yalnız olmayacaksın.",
   },
+  {
+    id: uuidv4(),
+    path: "/assets/videos/320802a.mp4",
+    subtitle: "Hinduism is the third largest religion in the world.",
+    answer: "Hinduizm dünyadaki üçüncü en büyük dindir.",
+    distractor: "Hinduizm dünyadaki en büyük üç dinden biridir.",
+  },
+  {
+    id: uuidv4(),
+    path: "/assets/videos/zfe5pd7rcfg2m9oa2.mp4",
+    subtitle:
+      "Human ones weigh 1.5 kilograms, elephant brains 5 kg, and whale brains 9 kg.",
+    answer:
+      "İnsanlarınki bir buçuk, fillerin beyni beş ve balinaların beyni ise dokuz kilogram ağırlığındadır.",
+    distractor:
+      "İnsanlarınki bir buçuk, fillerin beyni dokuz ve balinaların beyni ise elli kilogram ağırlığındadır.",
+  },
+  {
+    id: uuidv4(),
+    path: "/assets/videos/jraul4mgzba6zvda2.mp4",
+    subtitle: "A: You look beautiful. B: Thank you.",
+    answer: "A: Güzel görünüyorsun. B: Teşekkür ederim.",
+    distractor: "A: Sağlıklı görünüyorsun. B: Teşekkür ederim.",
+  },
+  {
+    id: uuidv4(),
+    path: "/assets/videos/jraul4mgzba6zvda2.mp4",
+    subtitle: "A: You look beautiful. B: Thank you.",
+    answer: "A: Güzel görünüyorsun. B: Teşekkür ederim.",
+    distractor: "A: Sağlıklı görünüyorsun. B: Teşekkür ederim.",
+  },
+  {
+    id: uuidv4(),
+    path: "/assets/videos/andlh6r9z968mp3a2.mp4",
+    subtitle: "A: Wake up! Wake up! Clear! B: Ah!",
+    answer: "A: Uyan! Uyan! Hazır! B: Ah!",
+    distractor: "A: Dinle! Dinle! Hazır! B: Ah!",
+  },
 ];
